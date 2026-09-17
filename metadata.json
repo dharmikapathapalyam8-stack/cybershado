@@ -1,0 +1,6 @@
+{
+  "name": "CyberShadow",
+  "description": "Personal Cyber Risk Score & Behavioral Anomaly Defense System with explainable AI threat detection, digital twin exposure graph, and proactive security coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
